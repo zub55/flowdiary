@@ -1,3 +1,3 @@
-<html>
-  <p>This is our new file in flowdiary repo</p>
-  </html>
+function create_account(){
+        console.log("Created");
+}
