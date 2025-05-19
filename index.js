@@ -1,3 +1,3 @@
 function create_account(){
-        console.log("Created");
+        console.log("Created the account");
 }
